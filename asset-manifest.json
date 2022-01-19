@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/juanarede/appreact_clima/static/css/main.98064a69.chunk.css",
+    "main.js": "/juanarede/appreact_clima/static/js/main.987af1fa.chunk.js",
+    "main.js.map": "/juanarede/appreact_clima/static/js/main.987af1fa.chunk.js.map",
+    "runtime-main.js": "/juanarede/appreact_clima/static/js/runtime-main.0a929a01.js",
+    "runtime-main.js.map": "/juanarede/appreact_clima/static/js/runtime-main.0a929a01.js.map",
+    "static/css/2.fc4e70f7.chunk.css": "/juanarede/appreact_clima/static/css/2.fc4e70f7.chunk.css",
+    "static/js/2.b2060e63.chunk.js": "/juanarede/appreact_clima/static/js/2.b2060e63.chunk.js",
+    "static/js/2.b2060e63.chunk.js.map": "/juanarede/appreact_clima/static/js/2.b2060e63.chunk.js.map",
+    "static/js/3.ae37806d.chunk.js": "/juanarede/appreact_clima/static/js/3.ae37806d.chunk.js",
+    "static/js/3.ae37806d.chunk.js.map": "/juanarede/appreact_clima/static/js/3.ae37806d.chunk.js.map",
+    "index.html": "/juanarede/appreact_clima/index.html",
+    "static/css/2.fc4e70f7.chunk.css.map": "/juanarede/appreact_clima/static/css/2.fc4e70f7.chunk.css.map",
+    "static/css/main.98064a69.chunk.css.map": "/juanarede/appreact_clima/static/css/main.98064a69.chunk.css.map",
+    "static/js/2.b2060e63.chunk.js.LICENSE.txt": "/juanarede/appreact_clima/static/js/2.b2060e63.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/juanarede/appreact_clima/static/media/0917clima-1232201_.ba0e0f42.jpg",
+    "static/media/weather-icons.css": "/juanarede/appreact_clima/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a929a01.js",
+    "static/css/2.fc4e70f7.chunk.css",
+    "static/js/2.b2060e63.chunk.js",
+    "static/css/main.98064a69.chunk.css",
+    "static/js/main.987af1fa.chunk.js"
+  ]
+}
